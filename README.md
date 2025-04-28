@@ -4,6 +4,10 @@ how to make a good readme code with explanation
 `## is to make a title `
 ## A title with "##"
 
+use # for a big title and ## for a medium title and ### for a small title
+
+
+
 `"``"` to make a piece of code
 
 `code...`
