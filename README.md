@@ -1,6 +1,9 @@
 # Readme-code-explaination
 how to make a good readme code with explanation
 
+**also on https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax**
+
+
 `## is to make a title `
 ## A title with "##"
 
